@@ -3,5 +3,5 @@ This is just simple thing I made while I was bored, to just view info on servers
 
 Commands. 
 
-serverlookup
+serverlookup and
 userlookup
